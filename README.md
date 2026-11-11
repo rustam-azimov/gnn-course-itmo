@@ -6,14 +6,14 @@
 
 Курс о машинном обучении на графовых данных: от классических признаков и эмбеддингов
 вершин до graph transformers, динамических графов и связки графов с языковыми моделями.
-Каждой лекции соответствует практика, где всё разбираемое пишется руками. Все ноутбуки
+Каждой лекции соответствует практика: от реализации методов до экспериментов с готовыми слоями. Все ноутбуки
 рассчитаны на бесплатный Google Colab — своя видеокарта не нужна.
 
 ## Структура
 
 | Папка | Что внутри |
 |---|---|
-| `lectures/` | презентации лекций в формате `.pptx` |
+| `lectures/` | презентации лекций в формате `.pptx`, PDF при наличии |
 | `practice/` | блокноты практических занятий |
 | `practice/solutions/` | решённые версии практик |
 | `tasks/` | домашние задания |
@@ -29,7 +29,7 @@
 | 2 | Эмбеддинги вершин и предсказание связей | node2vec своими руками |
 | 3 | Graph Neural Networks: message passing | Message passing с нуля |
 | 4 | Выразительность и дизайн GNN | Диагностика выразительности |
-| 5 | Graph Transformers и масштабирование | Большие графы и трансформеры |
+| 5 | [Graph Transformers и масштабирование](lectures/lecture05_scaling_transformers.pptx) · [PDF](lectures/lecture05_scaling_transformers.pdf) | [GINE и GraphGPS на ZINC](practice/practice05_scaling_transformers.ipynb) · [Colab](https://colab.research.google.com/github/rustam-azimov/gnn-course-itmo/blob/main/practice/practice05_scaling_transformers.ipynb) · [Выполненный блокнот](practice/solutions/practice05_scaling_transformers_solution.ipynb) |
 | 6 | Гетерогенные графы и графы знаний | Гетерогенные графы и KGE |
 | 7 | Динамические графы и обучение без разметки | Временные графы и self-supervised |
 | 8 | Приложения и фронтир: RecSys, генерация, LLM + графы | Защита проектов |

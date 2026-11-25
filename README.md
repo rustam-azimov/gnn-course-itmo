@@ -30,7 +30,7 @@
 | 3 | Graph Neural Networks: message passing | Message passing с нуля |
 | 4 | Выразительность и дизайн GNN | Диагностика выразительности |
 | 5 | [Graph Transformers и масштабирование](lectures/lecture05_scaling_transformers.pptx) · [PDF](lectures/lecture05_scaling_transformers.pdf) | [GINE и GraphGPS на ZINC](practice/practice05_scaling_transformers.ipynb) · [Colab](https://colab.research.google.com/github/rustam-azimov/gnn-course-itmo/blob/main/practice/practice05_scaling_transformers.ipynb) · [Выполненный блокнот](practice/solutions/practice05_scaling_transformers_solution.ipynb) |
-| 6 | Гетерогенные графы и графы знаний | Гетерогенные графы и KGE |
+| 6 | [Гетерогенные графы и графы знаний](lectures/lecture06_heterogeneous_graphs.pptx) · [PDF](lectures/lecture06_heterogeneous_graphs.pdf) | [Ранжирование стран в Nations](practice/practice06_knowledge_graphs.ipynb) · [Colab](https://colab.research.google.com/github/rustam-azimov/gnn-course-itmo/blob/main/practice/practice06_knowledge_graphs.ipynb) · [Выполненный блокнот](practice/solutions/practice06_knowledge_graphs_solution.ipynb) |
 | 7 | Динамические графы и обучение без разметки | Временные графы и self-supervised |
 | 8 | Приложения и фронтир: RecSys, генерация, LLM + графы | Защита проектов |
 
